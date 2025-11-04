@@ -27,7 +27,11 @@ sudo gem install oxidized oxidized-web oxidized-script
 ![](images/OMV%20и%20Oxidized-25.10.2025-21_10.png)
 
 ![](images/OMV%20и%20Oxidized-25.10.2025-21_10-1.png)
+![](images/OMV%20и%20Oxidized-04.11.2025-11_11.png)
 
+![](images/OMV%20и%20Oxidized-04.11.2025-11_11-1.png)
+![](images/OMV%20и%20Oxidized-04.11.2025-12_11.png)
 
+![](images/OMV%20и%20Oxidized-04.11.2025-12_11-1.png)
 Также можно сделать уведомление в ТГ, которое будет приходить, если конфиг не сохранился: 
 ![](images/📖%20Установка%20Oxidized.pdf)
